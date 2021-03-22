@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/replay.png</file>
+        <file>icons/delete.svg</file>
+    </qresource>
+</RCC>

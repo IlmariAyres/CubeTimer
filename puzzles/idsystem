@@ -1,0 +1,11 @@
+01 cube
+02 pyraminx like
+03 megaminx like
+
+11 cuboid (following numbers: first major then minor)
+
+2* brick (* = biggest dimension following number two smaller)
+
+3* shapemod (* = (1 = mastermorphix, 2 = fisher, 3 = windmill, 4 = axis, 5 = mirror))
+
+4* exotic

@@ -1,0 +1,6 @@
+NAME
+ID (Puzzle type (01 cube, 02 pyra, 03 megaminx), magnitude, ex: 3x3 = 0103, 4x4 gigaminx = 0304, pyraminx = 0103)
+LEVELS (2x2 & 3x3 = 1, 4x4 & 5x5 = 2, 6x6 & 7x7 = 3 ...)
+MOVES (God's number)
+SIDES (F B U D L R on normal cube)
+SUFFIXES (Usually ' 2)

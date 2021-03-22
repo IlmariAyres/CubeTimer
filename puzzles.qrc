@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>puzzles/2x2.puz</file>
+        <file>puzzles/3x3.puz</file>
+        <file>puzzles/4x4.puz</file>
+        <file>puzzles/5x5.puz</file>
+        <file>puzzles/6x6.puz</file>
+        <file>puzzles/7x7.puz</file>
+        <file>puzzles/8x8.puz</file>
+        <file>puzzles/9x9.puz</file>
+        <file>puzzles/10x10.puz</file>
+        <file>puzzles/11x11.puz</file>
+        <file>puzzles/12x12.puz</file>
+        <file>puzzles/13x13.puz</file>
+        <file>puzzles/megaminx.puz</file>
+    </qresource>
+</RCC>
